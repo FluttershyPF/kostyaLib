@@ -1,0 +1,17 @@
+{
+    "name": "fluttershypf/kostyalib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "FluttershyPF",
+            "email": "k.nikitenko2013@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nikitenko\\": ""
+        }
+    }
+}
