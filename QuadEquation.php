@@ -1,6 +1,6 @@
-<?php
+<?php namespace nikitenko;
 
-use Nikitenko\NikitenkoException;
+use nikitenko\NikitenkoException;
 class E extends D
 {
 
